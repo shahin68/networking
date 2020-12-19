@@ -5,7 +5,7 @@
 This project is a demonstration of networking by making api calls to Google search engine and displaying the received results in a text view.
 
 
-**Features:**
+**Tech:**
 
 * Kotlin 
 * MVVM architecture
